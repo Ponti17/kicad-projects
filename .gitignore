@@ -3,3 +3,15 @@
 *.csv
 *.py
 fp-info-cache
+
+// Ignore gerbers
+*.gbl
+*.gbs
+*.gbp
+*.gbo
+*.gtl
+*.gts
+*.gtp
+*.gto
+*.drl
+*.gm1
